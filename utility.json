@@ -14,7 +14,7 @@
 	"ATTACK",
 	"ATTACK_PARTY"
 ],
-"slots" : 
+"slots" :
 {
 	"PRIMARY_SLOT" : ["PRIMARY"],
 	"SECONDARY_SLOT" : ["SECONDARY"],
