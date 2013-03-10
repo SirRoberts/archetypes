@@ -1,0 +1,69 @@
+{
+	{
+		"key" : "DEFAULT",
+		"name" : "Ooga Booga! I am a defaulted monster!",
+		"description" : "This is the default monster description! Please override me!",
+		"imageurl" : "images/monsters/default.png",
+		"region" : "*",
+		"attributes" : 
+		{
+			"_attack" : 1,
+			"_defense" : 1,
+			"_speed" : 1,
+			"_xp" : 0,
+			"_hp" : 50,
+			"_lives": 5,
+		}
+		"inventorydef" :
+		{
+			"POUCH" :
+			[
+				["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"],
+				["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"],
+				["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"],
+				["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"],
+				["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"],
+				["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"],
+				["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"],
+				["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"], ["POUCH_SLOT"]
+			],
+			
+			"EQUIPPED" :
+			[
+				["PRIMARY_SLOT"],
+				["SECONDARY_SLOT"],
+				["HEAD_SLOT"],
+				["TORSO_SLOT"],
+				["LEGS_SLOT"],
+				["FEET_SLOT"]
+			],
+			
+			"BACKPACK" :
+			[
+				["BACKPACK_SLOT"], ["BACKPACK_SLOT"], ["BACKPACK_SLOT"], ["BACKPACK_SLOT"],
+				["BACKPACK_SLOT"], ["BACKPACK_SLOT"], ["BACKPACK_SLOT"], ["BACKPACK_SLOT"]
+			]
+		}
+	},
+	{
+		"key" : "GHOST",
+		"name" : "Ooga Booga! I am a ghost!!",
+		"description" : "Just overriding the default description! Also, will give myself a sword, leave inventory def alone, and give myself some fire and attack!",
+		"imageurl" : "images/monsters/default.png",
+		"region" : "*",
+		"attributes" :
+		{
+			"_attack" : 2,
+			"fire" : 1
+		},
+		"inventory"
+		{
+			"EQUIPPED" :
+			[
+				{
+					"key" : "SWORD_1"
+				}
+			]
+		}
+	}
+}
