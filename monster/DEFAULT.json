@@ -1,5 +1,5 @@
 {
-	"key" : "DEFAULT",
+	"key" : 00000,
 	"name" : "Ooga Booga! I am a defaulted monster!",
 	"description" : "This is the default monster description! Please override me!",
 	"imageurl" : "images/monsters/default.png",
