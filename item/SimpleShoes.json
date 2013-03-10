@@ -1,0 +1,11 @@
+{
+	"key" : 27001,
+	"name" : " Simple Shoes",
+	"description" : "You wear them on your feet.",
+	"type" : "FEET",
+	"attributes" : 
+	{
+		"_defense" : 1,
+		"_speed" : 3,
+	}
+},

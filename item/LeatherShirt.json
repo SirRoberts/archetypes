@@ -1,0 +1,11 @@
+{
+	"key" : 20001,
+	"name" : "Leather Shirt",
+	"description" : "It's tough. Protects better than a normal shirt.",
+	"type" : "TORSO",
+	"attributes" : 
+	{
+		"_defense" : 3,
+		"_speed" : 1,
+	}
+},

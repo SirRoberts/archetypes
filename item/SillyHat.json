@@ -1,0 +1,10 @@
+{
+	"key" : 18001,
+	"name" : "Silly Hat",
+	"description" : "It goes on your head.",
+	"type" : "HEAD",
+	"attributes" : 
+	{
+		"_defense" : 1,
+	}
+},

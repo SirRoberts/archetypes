@@ -1,0 +1,11 @@
+{
+	"key" : 05001,
+	"name" : "Dummy's Dagger",
+	"description" : "It's a rouge's best friend.",
+	"attributes" : 
+	{
+		"_attack" : 2,
+		"_defense" : 0,
+		"_speed" : 4,
+	}
+},

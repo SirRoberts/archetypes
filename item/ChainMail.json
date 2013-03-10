@@ -1,0 +1,11 @@
+{
+	"key" : 19001,
+	"name" : "Chain Mail",
+	"description" : "Heavy as hell.  But it's safe.",
+	"type" : "TORSO",
+	"attributes" : 
+	{
+		"_attack" : 1,
+		"_defense" : 4,
+	}
+},

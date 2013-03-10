@@ -1,0 +1,11 @@
+{
+	"key" : 17001,
+	"name" : "Hood",
+	"description" : "It covers your whole head.  Protects you from the sun. And social situations.",
+	"type" : "HEAD",
+	"attributes" : 
+	{
+		"_defense" : 2,
+		"_speed" : 2,
+	}
+},

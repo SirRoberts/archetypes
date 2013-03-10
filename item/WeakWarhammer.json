@@ -1,0 +1,11 @@
+{
+	"key" : 11001,
+	"name" : "Weak Warhammer",
+	"description" : "Drop it the wrong way, it might break. Drop it the right way, people break.",
+	"attributes" : 
+	{
+		"_attack" : 5,
+		"_defense" : 2,
+		"_speed" : -1,
+	}
+},

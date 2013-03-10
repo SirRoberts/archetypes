@@ -1,0 +1,11 @@
+{
+	"key" : 09001,
+	"name" : "Average Axe",
+	"description" : "For the average Joe that wants to cut his enemies in 2.",
+	"attributes" : 
+	{
+		"_attack" : 4,
+		"_defense" : 2,
+		"_speed" : 0,
+	}
+},

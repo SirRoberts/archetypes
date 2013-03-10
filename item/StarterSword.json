@@ -1,0 +1,11 @@
+{
+	"key" : 01001,
+	"name" : "Starter Sword",
+	"description" : "Just a basic sword. Still deadly though.",
+	"attributes" : 
+	{
+		"_attack" : 2,
+		"_defense" : 2,
+		"_speed" : 2,
+	}
+},

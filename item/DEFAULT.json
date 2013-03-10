@@ -1,0 +1,13 @@
+{
+	"key" : 00000,
+	"name" : "Default Item",
+	"description" : "This is the default item description. Don't change this, just override it in new items!",
+	"imageurl" : "images/default.png",
+	"type" : "PRIMARY",
+	"attributes" : 
+	{
+		"_attack" : 0,
+		"_defense" : 0,
+		"_speed" : 0,
+	}
+},

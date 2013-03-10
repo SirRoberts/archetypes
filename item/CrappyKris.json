@@ -1,0 +1,11 @@
+{
+	"key" : 08001,
+	"name" : "Crappy Kris",
+	"description" : "Really hurts when it goes in",
+	"attributes" : 
+	{
+		"_attack" : 3,
+		"_defense" : 0,
+		"_speed" : 3,
+	}
+},

@@ -1,0 +1,12 @@
+{
+	"key" : 13001,
+	"name" : "Simple Shield",
+	"description" : "Simple secondary protection."
+	"type" : "SECONDARY",
+	"attributes" : 
+	{
+		"_attack" : 1,
+		"_defense" : 3,
+
+	}
+},

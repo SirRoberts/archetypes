@@ -1,0 +1,11 @@
+{
+	"key" : 12001,
+	"name" : "Morning Star",
+	"description" : "It's a ball with spikes on the end of a stick.",
+	"attributes" : 
+	{
+		"_attack" : 4,
+		"_defense" : 1,
+		"_speed" : 1,
+	}
+},

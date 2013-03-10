@@ -1,0 +1,11 @@
+{
+	"key" : 07001,
+	"name" : "Kitchen Knife",
+	"description" : "Took a blade from the dinner table.",
+	"attributes" : 
+	{
+		"_attack" : 1,
+		"_defense" : -1,
+		"_speed" : 6,
+	}
+},

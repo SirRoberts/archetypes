@@ -1,0 +1,11 @@
+{
+	"key" : 02001,
+	"name" : "Basic Bokken",
+	"description" : "Wooden version of your favorite Japanese sword.",
+	"attributes" : 
+	{
+		"_attack" : 1,
+		"_defense" : 1,
+		"_speed" : 1,
+	}
+},

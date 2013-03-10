@@ -1,0 +1,10 @@
+{
+	"key" : 22001,
+	"name" : "Plated Leggings",
+	"description" : "Iron plates for your legs.",
+	"attributes" : 
+	{
+		"_attack" : 1,
+		"_defense" : 3,
+	}
+},

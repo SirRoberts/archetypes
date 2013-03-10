@@ -1,0 +1,12 @@
+{
+	"key" : 23001,
+	"name" : "Leather Leggings",
+	"description" : "Protects better than normal pants.",
+	"type" : "LEGS",
+	"attributes" : 
+	{
+		"_attack" : 1,
+		"_defense" : 1,
+		"_speed" : 2,
+	}
+},

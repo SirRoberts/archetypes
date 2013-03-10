@@ -1,0 +1,11 @@
+{
+	"key" : 03001,
+	"name" : "First Falchion",
+	"description" : "Fancy European sword.  Stronger than a simple sword, but harder to swing around.",
+	"attributes" : 
+	{
+		"_attack" : 3,
+		"_defense" : 2,
+		"_speed" : 0,
+	}
+},

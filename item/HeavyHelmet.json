@@ -1,0 +1,11 @@
+{
+	"key" : 16001,
+	"name" : "Heavy Helmet",
+	"description" : "Keeps your head safe from... everything I guess.",
+	"type" : "HEAD",
+	"attributes" : 
+	{
+		"_attack" : 1,
+		"_defense" : 3,
+	}
+},

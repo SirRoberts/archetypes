@@ -1,0 +1,11 @@
+{
+	"key" : 26001,
+	"name" : " Basic Boots",
+	"description" : "Leather footgear.",
+	"type" : "FEET",
+	"attributes" : 
+	{
+		"_defense" : 2,
+		"_speed" : 2,
+	}
+},

@@ -1,0 +1,11 @@
+{
+	"key" : 21001,
+	"name" : "Robe",
+	"description" : "It's a cloth garment you wear.",
+	"type" : "TORSO",
+	"attributes" : 
+	{
+		"_defense" : 2,
+		"_speed" : 2,
+	}
+},

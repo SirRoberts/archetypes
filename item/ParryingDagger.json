@@ -1,0 +1,12 @@
+{
+	"key" : 14001,
+	"name" : "Parrying Dagger",
+	"description" : "Makes it easier to deny an opponent's sword.",
+	"type" : "SECONDARY",
+	"attributes" : 
+	{
+		"_attack" : 1,
+		"_speed" : 3,
+		
+	}
+},

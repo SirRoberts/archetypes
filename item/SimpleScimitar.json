@@ -1,0 +1,11 @@
+{
+	"key" : 04001,
+	"name" : "Simple Scimitar",
+	"description" : "A southern asian sword.  More curved than a normal European blade.",
+	"attributes" : 
+	{
+		"_attack" : 2,
+		"_defense" : 3,
+		"_speed" : 0,
+	}
+},

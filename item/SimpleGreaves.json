@@ -1,0 +1,11 @@
+{
+	"key" : 25001,
+	"name" : "Simple Greaves",
+	"description" : "Metal shoes. Provide extra protection",
+	"type" : "FEET",
+	"attributes" : 
+	{
+		"_defense" : 3,
+		"_speed" : 1,
+	}
+},

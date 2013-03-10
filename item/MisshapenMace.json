@@ -1,0 +1,11 @@
+{
+	"key" : 10001,
+	"name" : "Misshapen Mace",
+	"description" : "Crushes skulls.",
+	"attributes" : 
+	{
+		"_attack" : 3,
+		"_defense" : 1,
+		"_speed" : -1,
+	}
+},

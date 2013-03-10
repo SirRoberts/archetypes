@@ -1,0 +1,11 @@
+{
+	"key" : 24001,
+	"name" : "Plain Pants",
+	"description" : "You wear them. Over your legs.  ",
+	"type" : "LEGS",
+	"attributes" : 
+	{
+		"_defense" : 1,
+		"_speed" : 2,
+	}
+},
