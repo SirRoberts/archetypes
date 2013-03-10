@@ -11,8 +11,8 @@
 		"_speed" : 1,
 		"_xp" : 0,
 		"_hp" : 50,
-		"_lives": 5,
-	}
+		"_lives": 5
+	},
 	"inventorydef" :
 	{
 		"POUCH" :
