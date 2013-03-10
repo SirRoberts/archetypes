@@ -13,7 +13,7 @@
 	"CONSUMABLE_PARTY",
 	"ATTACK",
 	"ATTACK_PARTY"
-]
+],
 "slots" : 
 {
 	"PRIMARY_SLOT" : ["PRIMARY"],
