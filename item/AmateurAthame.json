@@ -1,11 +1,11 @@
 {
 	"key" : 06001,
-	"name" : "Amateur's Athame",
+	"name" : "Amateur Athame",
 	"description" : "A sacrificial knife.",
 	"attributes" : 
 	{
 		"_attack" : 1,
 		"_defense" : -1,
-		"_speed" : 3,
+		"_speed" : 2,
 	}
-},
+}
